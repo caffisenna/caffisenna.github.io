@@ -4,5 +4,4 @@
 
 layout: home
 ---
-idflkgjdlkfjg
-![](img/1.jpg)
+
