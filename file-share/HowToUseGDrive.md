@@ -40,7 +40,7 @@ Googleドライブを使用するとファイルをインターネット上の�
 
 # 共有フォルダを作成する
 ## googleドライブにアクセス
-![](images/1.jpg)
+![](./images/1.jpg)
 
 ブラウザで[drive.google.com](https://drive.google.com/)にアクセスします。この時点でGoogleアカウントにログインをしていなければ`Googleドライブにアクセス`をクリックしてGoogleアカウントにログインしてください。
 
