@@ -55,7 +55,7 @@
 
 |画面イメージ|操作|
 |---|---|
-|<img src="images/ios/setupmeeting/ios_1.jpg" width="400px">|iPhoneまたはiPadでZoomアプリを起動します。アプリにログインが必要なのでログインしていなければログインしてください。<br>ログインができたら`スケジュール`をタップします。|
+|<img src="images/ios/setupmeeting/ios_1.jpg" width="400px">|iPhoneまたはiPadでZoomアプリを起動します。<br>アプリにログインが必要なのでログインしていなければログインしてください。<br>ログインができたら`スケジュール`をタップします。|
 |<img src="images/ios/setupmeeting/ios_2.jpg" width="400px"><br><img src="images/ios/setupmeeting/ios_3.jpg" width="400px">|会議の予約画面になります。ここでは<br>* 会議名<br>* 日時<br>* パスワード(必ず設定しましょう!)<br>* ミーティングオプション<br><br>などを設定します。ここまで設定できたら右上の`完了`をタップします。|
 |<img src="images/ios/setupmeeting/ios_4.jpg" width="400px">|確認画面になります。<br>設定内容を確認して問題なければ右上の`追加`をタップします。|
 |<img src="images/ios/setupmeeting/ios_6.jpg" width="400px">|元の画面に戻ります。画面下部の`ミーティング`をタップします。|
