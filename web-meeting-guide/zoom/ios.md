@@ -29,7 +29,6 @@ Zoomのアプリをインストールしておくと便利なので、まずは�
 
 [App Storeからのインストールはこちら](https://itunes.apple.com/us/app/id546505307)
 
-<!--![](images/ios/ios_4.jpg)-->
 |画面イメージ|操作|
 |---|---|
 |<img src="images/ios/ios_4.jpg" width="350px">|アプリを確認したら`入手`または`雲マーク`をタップしてインストールします。|
