@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ボーイスカウト日本連盟デジタルツール利用ガイド
-email: taichi.tadano@gmail.com 
+title: DX推進室 デジタルツール利用ガイド
+email: dx@scout.or.jp
 description: >- # this means to ignore newlines until "baseurl:"
-    「こんなことが知りたい」「これってどうやるの?」などありましたら dx@scout.or.jp までお寄せください。
+    「こんなことが知りたい」「これってどうやるの?」などありましたらボーイスカウト日本連盟 DX推進室までお寄せください。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  caffisenna
 
 # Build settings

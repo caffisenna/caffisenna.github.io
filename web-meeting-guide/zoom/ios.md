@@ -1,3 +1,9 @@
+---
+layout: page
+title: Zoom使い方ガイド iOS版 
+permalink: /web-meeting-guide/zoom/ios
+language: ja
+---
 # Zoom使い方ガイド iOS版
 
 [Zoom](https://zoom.us/)の無料プランを使ってオンラインミーティングを開催してみましょう。
@@ -70,9 +76,3 @@ App Storeからのインストールは[こちら](https://itunes.apple.com/us/a
 |<img src="images/ios/setupmeeting/ios_7.jpg" width="400px">|ここには設定済みのミーティングが表示されます。<br>先程設定した"団委員会"をタップしてみましょう。|
 |<img src="images/ios/setupmeeting/ios_8.jpg" width="400px">|団委員会のミーティング詳細が表示されます。<br>ここではミーティングの確認や修正をすることができます。<br>修正が必要な場合は右上の`編集`をタップして行います。<br>問題がなければ参加者に招待状を送りましょう。<br>画面下部の`招待者を追加`をタップします。|
 |<img src="images/ios/setupmeeting/ios_9.jpg" width="400px">|送る方法が表示されるので選択します。<br>{::nomarkdown}<ul><li>メールの送信</li><ul><li>iPhone標準のメールアプリから招待状を送信します</li></ul><li>メッセージの送信</li><ul><li>SMSやiMessageで招待状を送信します</li></ul><li>クリップボードにコピー</li><ul><li>クリップボードに招待状の中身がコピーされます。その他のアプリなどで送信する場合はこれを選択します</li></ul></ul>{:/}<br>当日は会議が自動的に始まるわけではないので、主催者も参加者と同じようにZoomにログインし、参加者の受け入れ作業をする必要があります。|
-
-
-
-
-# 日本連盟DX推進室
-「こんなことが知りたい」「これってどうやるの?」などありましたら <dx@scout.or.jp>までお寄せください。
