@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: リモートデスクトップを使ってみよう 
 permalink: /remote-desktop/
 ---
