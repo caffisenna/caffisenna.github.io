@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Googleドライブでファイル共有 
-permalink: /file-share
+permalink: /file-share/
 ---
 # Googleドライブでファイル共有をしてみよう
 Googleドライブを使用するとファイルをインターネット上の領域に保存して、さまざまな端末で開いたり編集したりできます。仲間内で共有もできるので団委員会や団会議などで活用も期待できます。
