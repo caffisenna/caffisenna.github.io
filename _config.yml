@@ -21,7 +21,7 @@
 title: DX推進室 デジタルツール利用ガイド
 email: dx@scout.or.jp
 description: >- # this means to ignore newlines until "baseurl:"
-    「こんなことが知りたい」「これってどうやるの?」などありましたらボーイスカウト日本連盟 DX推進室までお寄せください。
+    デジタルツールを活用し、ボーイスカウト運動を継続するために使える各種ツールの使い方やガイドライン集
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

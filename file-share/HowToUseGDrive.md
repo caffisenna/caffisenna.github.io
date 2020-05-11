@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Googleドライブでファイル共有 
 permalink: /file-share
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Zoom使い方ガイド アンドロイド版 
 permalink: /web-meeting-guide/zoom/android
 language: ja

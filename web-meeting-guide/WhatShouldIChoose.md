@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: どの会議ツールを選んだらいいの？ 
 permalink: /web-meeting-guide/WhatShouldIChoose.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Zoom使い方ガイド iOS版 
 permalink: /web-meeting-guide/zoom/ios
 language: ja
