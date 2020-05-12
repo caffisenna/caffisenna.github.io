@@ -43,7 +43,7 @@ Zoomのアプリをインストールしておくと便利なので、まずは�
 このページではパソコン版アプリで解説しています。
 
 * iOS(iPhoneまたはiPad)の方は[こちら](ios.md)
-* Androidの方は[こちら](android/)
+* Androidの方は[こちら](android)
 
 を参照してください。
 
